@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "id": "2",
+  "name": "去广告 2",
+  "collectionVersion": 1,
+  "moduleIds": [
+    "Cainiao_remove_ads",
+    "Youtube_remove_ads"
+  ],
+  "source": {
+    "repo": "oliver556/clash-rules",
+    "manifestUrl": "https://raw.githubusercontent.com/oliver556/clash-rules/main/manifest.json",
+    "manifestGeneratedAt": ""
+  },
+  "createdAt": "2026-07-07T04:08:53.597Z",
+  "updatedAt": "2026-07-07T04:08:53.597Z"
+}
