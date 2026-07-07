@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-07T04:08:10.545Z",
+  "updatedAt": "2026-07-07T04:08:53.597Z",
   "collections": [
     {
       "id": "1",
@@ -10,6 +10,15 @@
       "overridePath": "collections/1/collection.stoverride",
       "moduleCount": 3,
       "updatedAt": "2026-07-07T04:08:10.545Z"
+    },
+    {
+      "id": "2",
+      "name": "去广告 2",
+      "collectionVersion": 1,
+      "path": "collections/2/collection.json",
+      "overridePath": "collections/2/collection.stoverride",
+      "moduleCount": 2,
+      "updatedAt": "2026-07-07T04:08:53.597Z"
     }
   ]
 }
