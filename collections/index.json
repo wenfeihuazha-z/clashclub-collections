@@ -1,5 +1,15 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-07T04:08:17.443Z",
-  "collections": []
+  "updatedAt": "2026-07-07T04:08:10.545Z",
+  "collections": [
+    {
+      "id": "1",
+      "name": "去广告 1",
+      "collectionVersion": 1,
+      "path": "collections/1/collection.json",
+      "overridePath": "collections/1/collection.stoverride",
+      "moduleCount": 3,
+      "updatedAt": "2026-07-07T04:08:10.545Z"
+    }
+  ]
 }
